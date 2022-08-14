@@ -1,0 +1,26 @@
+{
+  "name": "lw3-senior-upgradeable",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BuiltByFrancis/lw3-senior-upgradeable.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/BuiltByFrancis/lw3-senior-upgradeable/issues"
+  },
+  "homepage": "https://github.com/BuiltByFrancis/lw3-senior-upgradeable#readme",
+  "devDependencies": {
+    "@nomicfoundation/hardhat-toolbox": "^1.0.1",
+    "@openzeppelin/contracts-upgradeable": "^4.7.3",
+    "@openzeppelin/hardhat-upgrades": "^1.20.0",
+    "hardhat": "^2.10.1"
+  }
+}
